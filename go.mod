@@ -1,4 +1,4 @@
-module email2mattermost
+module github.com/ryotosaito/email2mattermost
 
 go 1.15
 
